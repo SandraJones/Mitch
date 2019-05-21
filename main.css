@@ -2,6 +2,7 @@ h1 {
   font-size: 50px;
   font-weight: 600;
   text-align: center;
+  padding-top: 150px;
 }
 h2 {
   font-size: 30px;
@@ -25,7 +26,7 @@ body {
   width: 100%;
   background-size: cover;
   background-position: center;
-  background-image: url(Sunset-Cold-Mountains.jpg);
+  background-image: url(diagonalDarkBlueGrey.jpg);
   text-align: center;
   color: white;
   font-family: 'Noto Sans TC', sans-serif;
@@ -37,7 +38,7 @@ header {
   background-position: center;
   text-align: center;
   color: white;
-  font-family: 'Noto Sans TC', sans-serif;
+  font-family: 'Cabin', Open Sans;
 }
 .container {
   width:100%;
