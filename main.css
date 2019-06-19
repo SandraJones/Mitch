@@ -3,6 +3,7 @@ h1 {
   font-weight: 600;
   text-align: center;
   padding-top: 100px;
+  color: white;
 }
 h2 {
   font-size: 30px;
@@ -18,15 +19,14 @@ p {
   font-size: 20px;
   font-weight: 200;
   text-align: center;
-  color: rgba(255, 255, 255, 0.7);
+  color: grey;
 }
 
 body {
-  position:  relative;
-  width: 100%;
-  background-size: cover;
-  background-position: center;
-  background-image: url(Sunset-Cold-MountainsCropped.jpg);
+  position: relative;
+    background-image: url("Sunset-Cold-MountainsCropped.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100vh;
   text-align: center;
   color: white;
   font-family: 'Noto Sans TC', sans-serif;
@@ -58,6 +58,9 @@ article {
   font-weight: 500;
   padding-left: 10px;
   padding-right: 10px
+}
+.secondBlock {
+  color: grey;
 }
 .thirdBlock {
   align-items: center;
@@ -94,6 +97,7 @@ article {
   font-weight: 500;
   padding-left: 10px;
   padding-right: 10px;
+  color: grey;
 }
 .lastBlock {
   align-items: center;
@@ -102,6 +106,7 @@ article {
   margin-bottom: 2%;
   padding-left: 10px;
   padding-right: 10px;
+  color: grey;
 }
 .black-text{
   margin: 0 auto; 
@@ -114,14 +119,11 @@ article {
 }
 .projectsTitle {
   padding-top: 30px;
-  color: white;
+  color: grey;
   padding-bottom: 40px;
 }
 a {
-  color: white;
-}
-.footerClass {
-  margin-top: 100px;
+  color: grey;
 }
 .darkGrey {
   color: #36454f;
@@ -132,4 +134,18 @@ a {
 }
 .resume {
   padding-bottom: 100px;
+  color: white;
+}
+footer {
+  color: grey;
+}
+.footerClass {
+  margin-top: 100px;
+  color: grey;
+}
+.vocation {
+  color: white;
+}
+.aboutMe {
+  color: grey;
 }
