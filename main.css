@@ -23,12 +23,10 @@ p {
 }
 
 body {
-  position: relative;
+  position: absolute; top: 0; left: 0;
     background-image: url("Sunset-Cold-MountainsCropped.jpg");
     background-repeat: no-repeat;
-    background-size: 100% 100vh;
   text-align: center;
-  color: white;
   font-family: 'Noto Sans TC', sans-serif;
 }
 header {
@@ -140,7 +138,6 @@ footer {
   color: grey;
 }
 .footerClass {
-  margin-top: 100px;
   color: grey;
 }
 .vocation {
@@ -148,4 +145,7 @@ footer {
 }
 .aboutMe {
   color: grey;
+}
+.allInclusive {
+  background-color: #F2F2F2
 }
