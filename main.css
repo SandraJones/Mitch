@@ -129,6 +129,8 @@ a {
 .MitchPhoto {
   padding-top: 30px;
   padding-bottom: 30px;
+  border-radius:50%;
+  overflow:hidden;
 }
 .resume {
   padding-bottom: 100px;
