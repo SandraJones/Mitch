@@ -58,7 +58,7 @@ article {
   padding-right: 10px
 }
 .secondBlock {
-  color: grey;
+  color: #474c51;
 }
 .thirdBlock {
   align-items: center;
@@ -117,7 +117,7 @@ article {
 }
 .projectsTitle {
   padding-top: 30px;
-  color: grey;
+  color: #474c51;
   padding-bottom: 40px;
 }
 a {
@@ -147,5 +147,5 @@ footer {
   color: grey;
 }
 .allInclusive {
-  background-color: #F2F2F2
+  background-color: #D4D5D6;
 }
