@@ -144,7 +144,9 @@ footer {
   color: white;
 }
 .aboutMe {
-  color: grey;
+  color: #474c51;
+  font-size: 30px;
+  font-weight: 600;
 }
 .allInclusive {
   background-color: #D4D5D6;
